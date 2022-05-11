@@ -1,4 +1,5 @@
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyaspriyal&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyaspriyal&show_icons=true&theme=onedark)
 
 
