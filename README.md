@@ -1,6 +1,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyaspriyal&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyaspriyal&show_icons=true&theme=onedark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=vyaspriyal&show_icons=true&theme=onedark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyaspriyal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyaspriyal)]
